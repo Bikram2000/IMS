@@ -1,10 +1,20 @@
 # Invoice-Management-System
 
-Invoice Management System is a website created specifically for accessing Invoice of customers.
-This method the process businesses execute to invoice their clients for products and services they
-purchase, as well as to track invoices and make invoice payments to
-suppliers and vendors. In simple terms, invoice management
-involves dealing with both accounts receivable and accounts payable.
+What is Ims?
+
+An invoice management system is a software solution designed to automate the process of creating, sending, and managing invoices.
+What are the tech stack used?
+
+Invoice Management System portal leveraging Java, JDBC (Java Database Connectivity), JSP (Java Server Pages), and MySQL technologies.
+Need of ims?
+
+
+1.Home Page Module: Displays statistical information such as user count, total invoices generated, and other relevant metrics. Fetches data from the backend database and renders it dynamically using JSP.
+Customer Management Module: Allows administrators to perform CRUD operations on customer information. Includes functionality for adding, viewing, updating, and deleting customer records.
+Product Management Module: Enables administrators to manage product information, including name, description, price, and quantity. Supports CRUD operations for product management.
+Invoice Generation Module: Facilitates the creation of new invoices by selecting products and customers. Integrates a calculator for manual bill calculation, if required.
+Tracks product popularity by recording purchases and generating insights for administrators.
+Download Feature: Allows administrators to download generated invoices in PDF or other formats for recordkeeping and analysis.
 _______________________________________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/a6b54c2b-02ef-4eb0-8990-676ae0ce9500)
 ![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/dd54e253-7f84-4914-a98b-14da6f34f18f)
