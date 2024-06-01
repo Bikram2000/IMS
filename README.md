@@ -10,11 +10,11 @@ Need of ims?
 
 
 1.Home Page Module: Displays statistical information such as user count, total invoices generated, and other relevant metrics. Fetches data from the backend database and renders it dynamically using JSP.
-Customer Management Module: Allows administrators to perform CRUD operations on customer information. Includes functionality for adding, viewing, updating, and deleting customer records.
-Product Management Module: Enables administrators to manage product information, including name, description, price, and quantity. Supports CRUD operations for product management.
-Invoice Generation Module: Facilitates the creation of new invoices by selecting products and customers. Integrates a calculator for manual bill calculation, if required.
-Tracks product popularity by recording purchases and generating insights for administrators.
-Download Feature: Allows administrators to download generated invoices in PDF or other formats for recordkeeping and analysis.
+2.Customer Management Module: Allows administrators to perform CRUD operations on customer information. Includes functionality for adding, viewing, updating, and deleting customer records.
+3.Product Management Module: Enables administrators to manage product information, including name, description, price, and quantity. Supports CRUD operations for product management.
+4.Invoice Generation Module: Facilitates the creation of new invoices by selecting products and customers. Integrates a calculator for manual bill calculation, if required.
+5.Tracks product popularity by recording purchases and generating insights for administrators.
+6.Download Feature: Allows administrators to download generated invoices in PDF or other formats for recordkeeping and analysis.
 _______________________________________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/a6b54c2b-02ef-4eb0-8990-676ae0ce9500)
 ![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/dd54e253-7f84-4914-a98b-14da6f34f18f)
