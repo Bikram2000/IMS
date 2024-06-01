@@ -3,11 +3,12 @@
 What is Ims?
 
 An invoice management system is a software solution designed to automate the process of creating, sending, and managing invoices.
+
 What are the tech stack used?
 
 Invoice Management System portal leveraging Java, JDBC (Java Database Connectivity), JSP (Java Server Pages), and MySQL technologies.
-Need of ims?
 
+Component of IMS
 
 1.Home Page Module: Displays statistical information such as user count, total invoices generated, and other relevant metrics. Fetches data from the backend database and renders it dynamically using JSP.
 2.Customer Management Module: Allows administrators to perform CRUD operations on customer information. Includes functionality for adding, viewing, updating, and deleting customer records.
