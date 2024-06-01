@@ -18,7 +18,7 @@ Component of IMS
 6.Download Feature: Allows administrators to download generated invoices in PDF or other formats for recordkeeping and analysis.
 _______________________________________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/a6b54c2b-02ef-4eb0-8990-676ae0ce9500)
-![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/dd54e253-7f84-4914-a98b-14da6f34f18f)
+
 ![Screenshot (233)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/e248b439-383a-4d50-9134-9f2b6397bde3)
 ![Screenshot (234)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/cde6e7fa-bf0a-4aff-9b4d-a0ed19fb9573)
 ![Screenshot (235)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/ca003089-ba1b-4d4d-bd7a-96136fdd6b20)
